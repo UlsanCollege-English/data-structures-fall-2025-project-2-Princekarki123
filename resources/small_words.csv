@@ -1,0 +1,11 @@
+# tests/resources/small_words.csv
+ hello,5
+  help,4.5
+   hell,4.1
+    helmet,3.9 
+    heap,3.7
+     hear,3.6 
+     heart,3.5
+      heat,3.4
+   zebra,2.1
+     zen,2.0
